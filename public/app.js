@@ -70,7 +70,7 @@ function cart_get_orders()
 	return orders;
 }
 
-function cancel_order()
+function cancel_order(id)
 {
 	alert('aaa');
 	return false;
